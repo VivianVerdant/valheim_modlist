@@ -20,7 +20,6 @@
 - InstantMonsterLootDrop by aedenthorn_mods
 - Third_Eye by Azumatt
 - ServerSideMap by Mydayyy
-- ExploreTogether by Rolo
 - OdinArchitect by OdinPlus
 - Snap_Points_Made_Easy by MathiasDecrock
 - RepairStation by Azumatt
